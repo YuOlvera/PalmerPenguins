@@ -56,6 +56,8 @@ Precision percentage amongst lists:  100.0
 
 You can find more about penguin species in [List of Penguin Species](https://www.birdlife.org/worldwide/news/list-penguin-species)
 
+## Repository contents
+You can find my program in the Jupyter Notebook, the dataset in the .CSV file and a report explaining how the neural network was trained along with detailed explanation about the code and precision percentage.
 
 ## Author ✒️
 
